@@ -10,7 +10,7 @@
 
 📫 Résaux : [LinkedIn](www.linkedin.com/in/aledorian-legrand)
 
-🖥️ [CV]([https://2024-dwwm-bsm-p4.github.io/cv-ale/)
+🖥️ [CV](https://2024-dwwm-bsm-p4.github.io/cv-ale/)
 
 <!--
 **Aledorian/Aledorian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
