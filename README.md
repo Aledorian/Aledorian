@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🔭 Actuellement en formation de developpeur web et web mobile et ouvert aux opportunités professionnel.
+🌱 Je suis en train de developper mes connaissances en php / symfony, ainsi que certain framework js comme vue.js.
+⚡ Je suis déjà a l'aise avec le CSS3 et le HTML5.
 <!--
 **Aledorian/Aledorian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
